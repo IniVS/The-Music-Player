@@ -9,7 +9,7 @@ const title = document.querySelector('#title');
 const cover = document.querySelector('#cover');
 
 // Song title
-const songs = ['Yahweh', 'Yeshua', 'Adullam', 'Eze-ebube', 'Out-Of-My-Belly', 'YHWH']
+const songs = ['Yahweh', 'Yeshua', 'Adullam', 'Eze_ebube', 'Out_Of_My_Belly', 'YHWH']
 
 //Keep track of songs
 let songIndex = 0
